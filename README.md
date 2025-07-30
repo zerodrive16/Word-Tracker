@@ -21,5 +21,5 @@ Helps storing and reviewing new vocabulary on a daily basis.
 
 ## 📸 Preview
 
-![Screenshot of Language Word Tracker UI](./screenshot.png) <!-- Optional: add your own screenshot image -->
+![Preview of Word Tracker](https://github.com/zerodrive16/Word-Tracker/blob/main/Preview%20Word%20Tracker.png?raw=true)
 
